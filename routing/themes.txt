@@ -1,0 +1,11 @@
+más temas sobre las opciones de rutas:
+headerStyle: 
+    un objeto de estilo que se aplicará a la View eso envuelve el encabezado. 
+    Si configuras backgroundColor en él, ese será el color de tu encabezado.
+headerTintColor: 
+    el botón posterior y el título usan esta propiedad como su color. 
+    En el siguiente ejemplo, configuramos el color de tinte en blanco (#fff) 
+    para que el botón posterior y el título del encabezado sean blancos.
+headerTitleStyle: 
+    si queremos personalizar el fontFamily, 
+    fontWeight y otro Text propiedades de estilo para el título, podemos usar esto para hacerlo.
